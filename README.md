@@ -53,5 +53,6 @@
   - <a>If you want to Support this Project, then give this a Star</a>
   - <a href="https://github.com/mahtoid/DiscordChatExporterPy" target="_blank">Discord Chat Exporter</a>
   - <a href="https://discord.gg/ycZDpat7dB" target="_blank">Join my DC Server for help and create an Ticket</a>
-  - [Cheap Discord Boosts – BlustBoosts](https://www.blustboosts.com)
+  - Looking to grow your server? Check [Cheap Discord Boosts at BlustBoosts](https://www.blustboosts.com) for instant Level 1–3 perks.
+
 <p align="center">Apache License 2.0</p>
